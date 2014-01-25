@@ -1,0 +1,13 @@
+I am using GIT HUB with visual studio 2012. 
+Using the Add-ins look for Git Hub. They have
+a very nice way of working with project files.
+
+Couple things I notice. When working from within 
+Visual Studio going to the command line doesnt show
+the same details when you commit.
+Also I didn't see a way to branch. I am sure it is there
+I just haven't found it yet. 
+
+Shows a very nice history when you view your changes from
+Visual Studio.
+
